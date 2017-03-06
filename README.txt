@@ -1,4 +1,4 @@
-There is a client server implementation of the login protocol and cryptographic protocols implemented to a certain extent.It generates public and private keys
+There is a client server implementation of the login protocol and cryptographic protocols implemented to a certain extent.It generates public and private keys (generated using openssl)
 implicitly, cookie to prevent DOS attack, Diffie Hellman for secret key.
 That was our initial idea to develop the code. Later, we started working on the basic functionality and that's present in the the Client.py and Server.py files.
 
